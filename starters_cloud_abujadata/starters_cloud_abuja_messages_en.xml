@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Starters' Cloud]]></data>
+  <data name="en_project_author_name"><![CDATA[Virtual Tour by i360 Limited (+234 803 618 2896)]]></data>
+  <data name="en_project_author_url"><![CDATA[http://i360limited.com/]]></data>
+
+
+
+  <data name="en_pano10_title"><![CDATA[Front View]]></data>
+  <data name="en_spotpoint98_tooltip"><![CDATA[Front Desk]]></data>
+  <data name="en_spotpoint103_tooltip"><![CDATA[Outdoor Play Area]]></data>
+  <data name="en_spotpoint104_tooltip"><![CDATA[Waiting Area]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[Outdoor Play Area]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[Outdoor Waiting Area]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[Front Desk]]></data>
+  <data name="en_spotpoint105_tooltip"><![CDATA[Front View]]></data>
+  <data name="en_spotpoint106_tooltip"><![CDATA[Hall Way]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[Indoor Play Area]]></data>
+  <data name="en_spotpoint110_tooltip"><![CDATA[Hallway]]></data>
+  <data name="en_spotpoint111_tooltip"><![CDATA[Smart as Whip]]></data>
+  <data name="en_spotpoint112_tooltip"><![CDATA[Little Einstein]]></data>
+  <data name="en_spotpoint113_tooltip"><![CDATA[Little Einstein]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[Hallway]]></data>
+  <data name="en_spotpoint107_tooltip"><![CDATA[Stairway]]></data>
+  <data name="en_spotpoint108_tooltip"><![CDATA[Front Desk]]></data>
+  <data name="en_spotpoint109_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano31_title"><![CDATA[Hallware]]></data>
+
+
+  <data name="en_pano26_title"><![CDATA[Smart as Whip]]></data>
+  <data name="en_spotpoint114_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[Little Einstein]]></data>
+  <data name="en_spotpoint117_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[Little Einstein]]></data>
+  <data name="en_spotpoint115_tooltip"><![CDATA[Little Einstein]]></data>
+  <data name="en_spotpoint116_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[Stairway]]></data>
+  <data name="en_spotpoint118_tooltip"><![CDATA[Hall Way]]></data>
+  <data name="en_spotpoint119_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[Indoor Play Area]]></data>
+  <data name="en_spotpoint120_tooltip"><![CDATA[Bubblio]]></data>
+  <data name="en_spotpoint121_tooltip"><![CDATA[Stairway]]></data>
+  <data name="en_spotpoint122_tooltip"><![CDATA[Grannies Arms]]></data>
+  <data name="en_spotpoint123_tooltip"><![CDATA[Super Tots]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[Super Tots ]]></data>
+  <data name="en_spotpoint125_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[Bubblio]]></data>
+  <data name="en_spotpoint126_tooltip"><![CDATA[Play Area]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[Grannies Arms]]></data>
+  <data name="en_spotpoint124_tooltip"><![CDATA[Play Area]]></data>
+
+
+
+
+
+
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_controlBar_classicctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="en_controlBar_classicctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.starterscloud.com/]]></data>
+  <data name="en_logotooltipText"><![CDATA[Open website]]></data>
+  <data name="en_socialButtonsocial_href"><![CDATA[]]></data>
+  <data name="en_socialButtonfb_appid"><![CDATA[]]></data>
+  <data name="en_socialButtonfb_ref"><![CDATA[]]></data>
+  <data name="en_socialButton1social_href"><![CDATA[]]></data>
+  <data name="en_socialButton1tw_via"><![CDATA[]]></data>
+  <data name="en_socialButton1tw_text"><![CDATA[]]></data>
+  <data name="en_socialButton1tw_hashtag"><![CDATA[]]></data>
+  <data name="en_socialButton2social_href"><![CDATA[]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_buttontooltip"><![CDATA[Social Media Share]]></data>
+  <data name="en_button1tooltip"><![CDATA[More Information]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[Starters' Cloud School Abuja (+234 909 977 2253)]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.starterscloud.com]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_logo1websiteurl"><![CDATA[http://i360limited.com/]]></data>
+  <data name="en_logo1tooltipText"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="en_project_description"><![CDATA[<p align="center" style="text-align:center"><b><font size="4" face="arial, sans-serif" color="#f3f3f3"><span lang="EN-GB" style="line-height: 107%;">No. 7, Kabo Street,<br></span><span style="line-height: 107%;">Off Ahmadu Bello way,<br></span><span style="line-height: 107%;">Garki II, Abuja.</span></font></b></p><p align="center" style="text-align:center"></p><h2 id="fancy-title-38"><p align="center" style="text-align: center;"></p><p align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center;line-height:normal;mso-outline-level:3"></p><p align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center;line-height:normal;mso-outline-level:3"></p><p align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:center;line-height:normal;mso-outline-level:3"><b><u><span style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-ansi-language:EN-US">Crèche&nbsp;Playgroup</span></u></b><b><u><span style="font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US">&nbsp;</span></u></b><b><u><span style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US">|<span style="background:white">&nbsp;</span></span></u></b><b><u><span style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;background:white;mso-ansi-language:EN-US">Pre-Nursery Reception</span></u></b><b><u><span style="font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;mso-ansi-language:EN-US">&nbsp;</span></u></b><b><u><span style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US">|</span></u></b><b><u><span style="font-size:13.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US">&nbsp;</span></u></b><b><u><span style="font-size:13.5pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#F1C232;mso-ansi-language:EN-US">After&nbsp;School</span></u></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-ansi-language:EN-US"><o:p></o:p></span></b></p><p align="center" style="text-align: center;"><span style="font-size: 12pt; line-height: 107%; text-align: justify; font-weight: normal;"><font color="#f3f3f3">Starters’ Cloud was conceived with intelligent monitoring, diligence tochildhood learning and creativity, and also with a conducive environment inmind. We know that the early years of every child are the most important phasein a child’s life. As an Early Years Centre, therefore, we play an importantrole in introducing young children to the structured and social aspects of acollective environment as well as a transitional role in preparing your child forformal schooling.</font></span></p></h2>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
